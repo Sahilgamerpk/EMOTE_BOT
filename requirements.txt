@@ -1,0 +1,9 @@
+requests
+psutil
+pyjwt
+protobuf
+google
+cfonts
+pytz
+aiohttp
+urllib3
